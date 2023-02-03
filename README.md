@@ -1,2 +1,1 @@
-# prepcursehenrylalo
-prueba prepcurse
+este proyecto es una prueba
